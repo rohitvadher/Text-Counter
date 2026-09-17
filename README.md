@@ -1,77 +1,56 @@
-<h1 align="center">🔠 Text Counter</h1>
+# Text Counter
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=Modern+Text+Counter;Fast+%7C+Minimal" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Frontend-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Logic-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
----
-
-## 🌐 Live Preview
+A lightweight and responsive web application for analyzing text in real time. It provides instant statistics for characters, words, sentences, paragraphs, and spaces through a clean and focused interface.
 
 <p align="center">
   <a href="https://rohitdevx-2007.github.io/Text-Counter/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Open%20Live%20Demo-Click%20Here-blue?style=for-the-badge" />
-  </a>
-</p>
-
-🔗 **Live URL:** https://rohitdevx-2007.github.io/Text-Counter/
-
----
-
-## 📌 Overview
-
-A clean **Text Counter** web app that instantly counts characters, words, sentences, paragraphs, and spaces in real time.
-
----
-
-## ✨ Key Features
-
-- Real-time counting  
-- Words, characters, sentences  
-- Copy text button  
-- Clear all button  
-- Keyboard shortcuts  
-- Minimal interface  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github" />
-</p>
-
----
-
-## 👨‍💻 Developer Info
-
-**Rohit Vadher**  
-BCA Student
-
-📫 Developer Contact
-
-<p align="center">
-  <a href="mailto:vadherrohit239@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/rohitdevx-2007">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://instagram.com/rohit.devx">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20Demo-Open%20Project-2563EB?style=for-the-badge" alt="Live Demo" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  💡 Built with simplicity and focus.
-</p>
+## Overview
+
+Text Counter is a simple browser-based utility designed to quickly analyze written content without requiring any installation or external services.
+
+The application processes text instantly as it is entered, making it useful for writing, editing, content preparation, and everyday text analysis.
+
+## Features
+
+* Real-time text analysis
+* Character and word counting
+* Sentence and paragraph counting
+* Space counting
+* Copy text functionality
+* Clear text functionality
+* Keyboard shortcuts
+* Responsive design
+* Lightweight and fast interface
+
+## Technology Stack
+
+| Layer         | Technology         |
+| ------------- | ------------------ |
+| Structure     | HTML5              |
+| Styling       | CSS3               |
+| Functionality | JavaScript         |
+
+## Usage
+
+1. Open the application using the live demo.
+2. Enter or paste your text into the editor.
+3. View the statistics update automatically.
+4. Use the available controls to copy or clear the text.
+
+No installation or backend configuration is required.
+
+## Project Structure
+
+```text
+Text-Counter/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
