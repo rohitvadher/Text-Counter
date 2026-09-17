@@ -3,7 +3,7 @@
 A lightweight and responsive web application for analyzing text in real time. It provides instant statistics for characters, words, sentences, paragraphs, and spaces through a clean and focused interface.
 
 <p align="center">
-  <a href="https://rohitdevx-2007.github.io/Text-Counter/" target="_blank">
+  <a href="https://rohitvadher.github.io/Text-Counter/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Open%20Project-2563EB?style=for-the-badge" alt="Live Demo" />
   </a>
 </p>
